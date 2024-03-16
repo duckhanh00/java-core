@@ -63,5 +63,14 @@ so on. Punctuation connectors include the underscore character _, a “wavy
 low line” , and a few others. In practice, most programmers stick to A-Z, a-z,
 0-9, and the underscore _.
 
+3.4.2 Initializing variable
+
+In Java, it is considered good style to declare variables as closely as possible
+to the point where they are first used
+
+Khai báo càng gần điểm sử dụng lần đầu càng tốt
+
+
+
 
 
